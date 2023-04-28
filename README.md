@@ -42,3 +42,11 @@ I then added the variable random in the set up function this is chaning the numb
 I then added noLoop in set up as well because I was running into issues of it looping constantly when calling it in the draw function
 I then corrected my mistake and in the addflower function I added a for let statement and added the random vairable
 I kept the random variables in the set up function because I liked the design
+
+
+https://editor.p5js.org/carolinecontento/sketches/cx66ZSUYl
+i created a whole new design
+i created a array above the set up function
+and delcared multiple different variables
+I then created different for loops and within the loops created if else statements to create the different contiuous patterns
+I also filled the shapes with different colors
